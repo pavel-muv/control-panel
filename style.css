@@ -1,0 +1,3 @@
+.heading__name, .heading__faculty, .heading__birth, .heading__training {
+    cursor: pointer;
+}
